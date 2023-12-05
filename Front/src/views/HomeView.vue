@@ -4,4 +4,5 @@ import navBoard from '../components/global/navBoard.vue';
 
 <template>
     <navBoard/>
+    <!-- <AddComment/> -->
 </template>
